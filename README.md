@@ -25,10 +25,12 @@ The login and registration were created as a multi-step form. The first page ask
 In order for a user to become a tutor, he/she must first create an account. This will also allow them to edit their profile information. 
 
 ## Full CRUD for registered users
+![crud_gif](https://user-images.githubusercontent.com/110699040/213883962-c58d8f73-f540-4d16-a2e0-621fdee445cf.gif)
 
 Registered users have access to full CRUD features regarding their profile. A regular user can only browse through the list of developers and use the code space. However, registered users can edit their profile information, update their profile picture and delete their account. 
 
 ## Image Uploading with Firebase 
+![upload_pic_gif](https://user-images.githubusercontent.com/110699040/213883936-82ca21d2-d3e4-4ffc-a1e9-9715368864e6.gif)
 
 DEVBUD uses Firebase to allow users to upload an image from their local computer to add as their profile picture. The image is then stored in Firebase.
 
