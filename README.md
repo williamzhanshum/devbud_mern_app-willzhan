@@ -75,6 +75,8 @@ Includes carousel with indicators that allows users to easily navigate through a
 
 <a name='LiveChatMessaging'></a>
 ## Live Chat Messaging
+![chat_room_gif](https://user-images.githubusercontent.com/110699040/213891852-7e6d43d1-5b82-427f-8559-936119ec031f.gif)
+
 
 
 
