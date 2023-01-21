@@ -35,6 +35,7 @@ Registered users have access to full CRUD features regarding their profile. A re
 DEVBUD uses Firebase to allow users to upload an image from their local computer to add as their profile picture. The image is then stored in Firebase.
 
 ## Mobile-First Design
+![responsive_video_gif](https://user-images.githubusercontent.com/110699040/213885906-50bf8974-2600-4a5c-9fd8-f7ce621986b6.gif)
 
 DEVBUD was created with the mobile-first design approach. This means that users can still use and enjoy the application on any type of device. This application is responsive, so it will fit any screen size from an iPhone to a larger desktop.
 
