@@ -1,5 +1,5 @@
 # DEVBUD
-<img width="1439" alt="devbud-landing-page" src="https://user-images.githubusercontent.com/99300376/213822552-4f53ae6d-bf1d-41d8-9213-9de8a55c125a.png">
+<img src='https://user-images.githubusercontent.com/99300376/213828621-c3c4c2f9-da72-45c2-9321-bc035f7cccfa.gif' width='1000'/>
 
 [Live Demo](https://devbud.williamzhan.com/)
 
@@ -22,3 +22,17 @@ This application was deployed using AWS.
 The login and registration were created as a multi-step form. The first page asks for the user's email and password, while the second form asks for additional infromation like full name, education, years of experience, a short description and preferred coding languages. 
 
 In order for a user to become a tutor, he/she must first create an account. This will also allow them to edit their profile information. 
+
+## Full CRUD for registered users
+
+Registered users have access to full CRUD features regarding their profile. A regular user can only browse through the list of developers and use the code space. However, registered users can edit their profile information, update their profile picture and delete their account. 
+
+## Image Uploading with Firebase 
+
+DEVBUD uses Firebase to allow users to upload an image from their local computer to add as their profile picture. The image is then stored in Firebase.
+
+## Mobile-First Design
+
+
+
+
