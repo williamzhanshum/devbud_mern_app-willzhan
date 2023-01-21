@@ -21,7 +21,7 @@ This application was deployed using AWS.
   - [Login/Registration](#Login/Registration)
   - [Full CRUD for registered users](#FullCRUDforregisteredusers)
   - [Image Uploading with Firebase ](#ImageUploadingwithFirebase)
-  - [Mobile-First Design](#MobileFirsDesign)
+  - [Mobile-First Design](#MobileFirstDesign)
 
 * [Code Space](#templates)
   - [Create Room Page](#CreateRoomPage)
@@ -44,7 +44,7 @@ In order for a user to become a tutor, he/she must first create an account. This
 
 Registered users have access to full CRUD features regarding their profile. A regular user can only browse through the list of developers and use the code space. However, registered users can edit their profile information, update their profile picture and delete their account. 
 
-<a name='ImageUploadingwithFirebase '></a>
+<a name='ImageUploadingwithFirebase'></a>
 ## Image Uploading with Firebase 
 ![upload_pic_gif](https://user-images.githubusercontent.com/110699040/213883936-82ca21d2-d3e4-4ffc-a1e9-9715368864e6.gif)
 
