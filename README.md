@@ -33,7 +33,8 @@ DEVBUD uses Firebase to allow users to upload an image from their local computer
 
 ## Mobile-First Design
 
-DEVBUD was created with the mobile-first design approach. This means that users can still use and enjoy the application on any type of device. This application is responsive, so it will fit any screen size from an iPhone to a larger desktop. 
+DEVBUD was created with the mobile-first design approach. This means that users can still use and enjoy the application on any type of device. This application is responsive, so it will fit any screen size from an iPhone to a larger desktop.
+
 
 
 
