@@ -17,6 +17,19 @@ This application was deployed using AWS.
 
 # Features and Highlights
 
+* [Landing Page](#examples)
+  - [Login/Registration](#Login/Registration)
+  - [Full CRUD for registered users](#FullCRUDforregisteredusers)
+  - [Image Uploading with Firebase ](#ImageUploadingwithFirebase)
+  - [Mobile-First Design](#Mobile-FirsDesign)
+
+* [Code Space](#templates)
+  - [Create Room Page](#CreateRoomPage)
+  - [Collaborative Code Editor](#CollaborativeCodeEditor)
+  - [Live Group Call](#LiveGroupCall)
+  - [Screen Sharing](#ScreenSharing)
+  - [Live Chat Messaging](#LiveChatMessaging)
+
 ## Login/Registration
 ![registration_gif](https://user-images.githubusercontent.com/110699040/213883194-a41f8b07-f96f-46bd-8507-b16d01d22c6f.gif)
 
@@ -39,7 +52,7 @@ DEVBUD uses Firebase to allow users to upload an image from their local computer
 
 DEVBUD was created with the mobile-first design approach. This means that users can still use and enjoy the application on any type of device. This application is responsive, so it will fit any screen size from an iPhone to a larger desktop.
 
-## Create room Page
+## Create Room Page
 ![create_room_gif](https://user-images.githubusercontent.com/110699040/213889096-34fa4fd5-693d-473a-a04d-f52310734749.gif)
 
 Includes a toggleable & animated create and join room section
@@ -52,7 +65,7 @@ Includes carousel with indicators that allows users to easily navigate through a
 
 ## Screen Sharing
 
-## Live Chat Messagin
+## Live Chat Messaging
 
 
 
