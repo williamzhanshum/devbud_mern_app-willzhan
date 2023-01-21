@@ -39,6 +39,24 @@ DEVBUD uses Firebase to allow users to upload an image from their local computer
 
 DEVBUD was created with the mobile-first design approach. This means that users can still use and enjoy the application on any type of device. This application is responsive, so it will fit any screen size from an iPhone to a larger desktop.
 
+## Create room Page
+![create_room_gif](https://user-images.githubusercontent.com/110699040/213889096-34fa4fd5-693d-473a-a04d-f52310734749.gif)
+
+Includes a toggleable & animated create and join room section
+
+Includes carousel with indicators that allows users to easily navigate through a collection of images and description.
+
+## Collaborative Code Editor
+
+## Live Group Call
+
+## Screen Sharing
+
+## Live Chat Messagin
+
+
+
+
 
 
 
