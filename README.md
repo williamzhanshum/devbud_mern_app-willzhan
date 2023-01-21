@@ -21,7 +21,7 @@ This application was deployed using AWS.
   - [Login/Registration](#Login/Registration)
   - [Full CRUD for registered users](#FullCRUDforregisteredusers)
   - [Image Uploading with Firebase ](#ImageUploadingwithFirebase)
-  - [Mobile-First Design](#Mobile-FirsDesign)
+  - [Mobile-First Design](#MobileFirsDesign)
 
 * [Code Space](#templates)
   - [Create Room Page](#CreateRoomPage)
@@ -50,7 +50,7 @@ Registered users have access to full CRUD features regarding their profile. A re
 
 DEVBUD uses Firebase to allow users to upload an image from their local computer to add as their profile picture. The image is then stored in Firebase.
 
-<a name='Mobile-FirstDesign'></a>
+<a name='MobileFirstDesign'></a>
 ## Mobile-First Design
 ![responsive_video_gif](https://user-images.githubusercontent.com/110699040/213885906-50bf8974-2600-4a5c-9fd8-f7ce621986b6.gif)
 
