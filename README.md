@@ -1,5 +1,5 @@
 # DEVBUD
-<img src='https://user-images.githubusercontent.com/99300376/213828621-c3c4c2f9-da72-45c2-9321-bc035f7cccfa.gif' width='1000'/>
+<img src='https://user-images.githubusercontent.com/99300376/213829176-39182bfa-d13f-4d48-8be9-73be2b27789b.gif' width='1000'/>
 
 [Live Demo](https://devbud.williamzhan.com/)
 
@@ -33,6 +33,7 @@ DEVBUD uses Firebase to allow users to upload an image from their local computer
 
 ## Mobile-First Design
 
+DEVBUD was created with the mobile-first design approach. This means that users can still use and enjoy the application on any type of device. This application is responsive, so it will fit any screen size from an iPhone to a larger desktop. 
 
 
 
