@@ -18,6 +18,7 @@ This application was deployed using AWS.
 # Features and Highlights
 
 ## Login/Registration
+![registration_gif](https://user-images.githubusercontent.com/110699040/213883194-a41f8b07-f96f-46bd-8507-b16d01d22c6f.gif)
 
 The login and registration were created as a multi-step form. The first page asks for the user's email and password, while the second form asks for additional infromation like full name, education, years of experience, a short description and preferred coding languages. 
 
