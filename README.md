@@ -66,12 +66,18 @@ Includes carousel with indicators that allows users to easily navigate through a
 
 <a name='CollaborativeCodeEditor'></a>
 ## Collaborative Code Editor
+![code_edit_gif](https://user-images.githubusercontent.com/110699040/213901355-3ffb2f98-f821-4c57-b0b8-c7722c277fde.gif)
+
 
 <a name='LiveGroupCall'></a>
 ## Live Group Call
+![video_room_Gif](https://user-images.githubusercontent.com/110699040/213899719-a4b6d13c-37fb-4bca-850e-90cb4b1291aa.gif)
 
 <a name='ScreenSharing'></a>
 ## Screen Sharing
+![share_gif](https://user-images.githubusercontent.com/110699040/213900629-893fd59c-b4a2-4d4c-88f4-5fe5d2fc5066.gif)
+
+
 
 <a name='LiveChatMessaging'></a>
 ## Live Chat Messaging
