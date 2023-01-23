@@ -32,7 +32,8 @@ This application was deployed using AWS.
 
 <a name='Login/Registration'></a>
 ## Login/Registration
-![registration_gif](https://user-images.githubusercontent.com/110699040/213883194-a41f8b07-f96f-46bd-8507-b16d01d22c6f.gif)
+<img src='https://user-images.githubusercontent.com/110699040/213883194-a41f8b07-f96f-46bd-8507-b16d01d22c6f.gif' width='800'/>
+<!-- ![registration_gif](https://user-images.githubusercontent.com/110699040/213883194-a41f8b07-f96f-46bd-8507-b16d01d22c6f.gif) -->
 
 The login and registration were created as a multi-step form. The first page asks for the user's email and password, while the second form asks for additional infromation like full name, education, years of experience, a short description and preferred coding languages. 
 
@@ -60,24 +61,27 @@ DEVBUD was created with the mobile-first design approach. This means that users 
 ## Create Room Page
 ![create_room_gif](https://user-images.githubusercontent.com/110699040/213889096-34fa4fd5-693d-473a-a04d-f52310734749.gif)
 
-Includes a toggleable & animated create and join room section
+The Code Space comes with an animated toggleable feature that allows users to switch between the create a room form and join a room form. 
 
-Includes carousel with indicators that allows users to easily navigate through a collection of images and description.
+Next to each form there is a carousel with indicators that allows users to easily navigate through a collection of images and descriptions on how to use teh code space.
 
 <a name='CollaborativeCodeEditor'></a>
 ## Collaborative Code Editor
 ![code_edit_gif](https://user-images.githubusercontent.com/110699040/213901355-3ffb2f98-f821-4c57-b0b8-c7722c277fde.gif)
 
+DEVBUD'S Code Space comes with a built-in collaborative code editor that supports JavaScript, Java, and Python. Just like in Google Docs any code that is written and executed in the code editor will be seen by all the users in the code space. This allows users to work together with their colleagues on projects, assignments, or homework. 
 
 <a name='LiveGroupCall'></a>
 ## Live Group Call
 ![video_room_Gif](https://user-images.githubusercontent.com/110699040/213899719-a4b6d13c-37fb-4bca-850e-90cb4b1291aa.gif)
 
+The live group call feature was implemented using webRTC. The Code Space can support live group calls with any user that joins the room, and each user is able to turn off their camera, mute their microphone or share their screen. 
+
 <a name='ScreenSharing'></a>
 ## Screen Sharing
 ![share_gif](https://user-images.githubusercontent.com/110699040/213900629-893fd59c-b4a2-4d4c-88f4-5fe5d2fc5066.gif)
 
-
+The screen-sharing feature was also implemented using webRTC. Users are allowed to share their screen, window, or a specific tab with all the other users in the Code Space. This feature allows for better communication between parties and makes learning more efficient. 
 
 <a name='LiveChatMessaging'></a>
 ## Live Chat Messaging
