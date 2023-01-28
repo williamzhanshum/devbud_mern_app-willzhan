@@ -1,7 +1,10 @@
 # DEVBUD
 <img src='https://user-images.githubusercontent.com/99300376/213829176-39182bfa-d13f-4d48-8be9-73be2b27789b.gif' width='1000'/>
 
-[Live Demo](https://devbud.williamzhan.com/)
+#### Check it Out!
+
+[Live Demo](https://devbud.williamzhan.com/) and
+[Video Demo](https://vimeo.com/793111024)
 
 DEVBUD. is a full-stack application built with React, MongoDB, Firebase, TailwindCSS, and WebRTC. This is a social networking app for software developers that also has a collaborative code space. In this app, aspiring developers are able to network with experienced developers to improve their coding skills. The collaborative code space has group live chat messaging, live group video calls, screen sharing, and a collaborative code editor that supports JavaScript, Python, and Java. Check it out!
 
@@ -29,6 +32,11 @@ This application was deployed using AWS.
   - [Live Group Call](#LiveGroupCall)
   - [Screen Sharing](#ScreenSharing)
   - [Live Chat Messaging](#LiveChatMessaging)
+  
+* Conclusion and Next Steps
+  - [What I've Learned](#WhatIveLearned)
+  - [Next Steps](#NextSteps)
+
 
 <a name='Login/Registration'></a>
 ## Login/Registration
@@ -97,6 +105,11 @@ The screen-sharing feature was also implemented using webRTC. Users are allowed 
 
 The Code Space comes with live group chat messaging, that was integrated using webRTC. The top right corner of the chat box has a participant counter that keeps track of the number of users in the room. Any time a new user joins the room, all the other users will be notified through a notification in the chat box. This is another mode that users can use to stay in communication with each other. 
 
+<a name='WhatIveLearned'></a>
+## What I've Learned
+
+<a name='NextSteps'></a>
+## Next Steps
 
 
 
