@@ -123,7 +123,7 @@ This project has given me the opportunity to explore:
 <a name='NextSteps'></a>
 ## Next Steps
 
-- Create a resource page that will have more infromation on free learnign resources that aspirign devlopers can use to learn and improve their coding skills.
+- Create a resource page that will have more infromation on free learnign resources that aspirign devlopers can use to learn and improve their coding skills. (v1.0.1)
 - Use the Google Gmail API to allow users to send emails to other users directly from the app.
 - Use the Google Calendar API to allow users to schedule meeting times with other users. 
 
